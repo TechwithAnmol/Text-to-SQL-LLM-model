@@ -8,14 +8,15 @@ To install the required dependencies, use the following command:
 
 ```bash
 pip install -r requirements.txt
-Functions
+```
+# Functions
 sql.py: This module enables users to create their own SQL database.
 
 csvToSql.py: Use this script to convert CSV data into SQL format and create a corresponding database.
 
 app.py: This is the main application file where users can interact with the text-to-SQL functionality.
 
-Usage
+# Usage
 Start by installing the dependencies with pip install -r requirements.txt.
 Use sql.py to create your desired SQL database schema.
 Convert CSV data into SQL format and create a database using csvToSql.py.
